@@ -9,6 +9,4 @@ In this repository you will come across several subfolders and folders that demo
 Most of my projects are conducted using Python as my preferred programming language with the use of Jupyter Notebooks. You will that Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Keras & Py Torch are utilised the most in my portfolio projects. Other areas that you will also come across in this portfolio will include dashboards created using Tableau. 
 
 In the following sections of this README, I will provide a short summary of my interests and a brief description of the projects you will find in each folder. Let’s get started!
-
-
 # About
