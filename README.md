@@ -10,4 +10,4 @@ Most of my projects are conducted using Python as my preferred programming langu
 
 In the following sections of this README, I will provide a short summary of my interests and a brief description of the projects you will find in each folder. Let’s get started!
 # About
-I currenlty work as a freelance Data Analyst with an interest in Machine Learning and therefore much of my work has recently been driven towards Data Science focused Projects. My freelance work has provided me with an oppotunity to get exposure to various different fields and industries including marketing, healthcare and finance and seeing how data analys
+I currenlty work as a Data Analyst with an interest in Machine Learning and therefore much of my work has recently been driven towards Data Science focused Projects. I also conduct freelance work which has provided me with an oppotunity to get exposure to various different fields and industries including marketing, healthcare and finance and seeing how data analys
